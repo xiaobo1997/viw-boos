@@ -1,3 +1,3 @@
-# SUMMANRY
+# Table of contents
 
-(readme)[README.md]
+* [README](README.md)
