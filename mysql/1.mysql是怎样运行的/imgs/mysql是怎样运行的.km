@@ -1,0 +1,46 @@
+{
+    "root": {
+        "data": {
+            "id": "cglt6iunixk0",
+            "created": 1640174063646,
+            "text": "viw"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cglt75qir7c0",
+                    "created": 1640174113462,
+                    "text": "初识mysql"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cglt7xbbm1c0",
+                    "created": 1640174173493,
+                    "text": "字符集的故事"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cglt8erc4g00",
+                    "created": 1640174211466,
+                    "text": "innodb的故事"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cglt92von5s0",
+                    "created": 1640174263972,
+                    "text": "索引之b+树"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-red-compat",
+    "version": "1.4.43"
+}
