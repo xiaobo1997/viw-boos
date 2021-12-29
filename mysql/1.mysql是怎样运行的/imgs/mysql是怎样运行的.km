@@ -10,47 +10,210 @@
                 "data": {
                     "id": "cglt75qir7c0",
                     "created": 1640174113462,
-                    "text": "初识mysql"
+                    "text": "初识",
+                    "layout": null
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgripgbsea80",
+                            "created": 1640753874602,
+                            "text": "架构",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
                     "id": "cglt7xbbm1c0",
                     "created": 1640174173493,
-                    "text": "字符集的故事"
+                    "text": "字符集的故事",
+                    "layout": null
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgrippx1hxc0",
+                            "created": 1640753895478,
+                            "text": "字符集和比较规则",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgripsq1ahk0",
+                            "created": 1640753901584,
+                            "text": "mysql字符集和比较规则",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
                     "id": "cglt8erc4g00",
                     "created": 1640174211466,
-                    "text": "innodb的故事"
+                    "text": "innodb的故事",
+                    "layout": null
                 },
-                "children": []
-            },
-            {
-                "data": {
-                    "id": "cglt92von5s0",
-                    "created": 1640174263972,
-                    "text": "索引之b+树"
-                },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgrinsqf1ds0",
+                            "created": 1640753744879,
+                            "text": "存储结构",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgrinx581y80",
+                            "created": 1640753754482,
+                            "text": "数据页结构",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgrione92zk0",
+                            "created": 1640753811624,
+                            "text": "存储数据页表空间",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgriurb5y600",
+                            "created": 1640754290329,
+                            "text": "统计数据的收集",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
                     "id": "cgn6rekjy340",
                     "created": 1640313934361,
-                    "text": "buffer"
+                    "text": "数据目录",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgrirjbqi8o0",
+                            "created": 1640754037857,
+                            "text": "数据目录的结构",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cglt92von5s0",
+                    "created": 1640174263972,
+                    "text": "索引之b+树",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgriz7yglag0",
+                            "created": 1640754640023,
+                            "text": "b+"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgrizhhtn6w0",
+                            "created": 1640754660785,
+                            "text": "使用"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cgrit47gmw00",
+                    "created": 1640754161675,
+                    "text": "数据访问",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgriu2xqmzk0",
+                            "created": 1640754237275,
+                            "text": "单表",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgriu4ilf3s0",
+                            "created": 1640754240713,
+                            "text": "多表",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cgriucv4ps00",
+                    "created": 1640754258885,
+                    "text": "成本优化",
+                    "layout": null
                 },
                 "children": []
             },
             {
                 "data": {
-                    "id": "cgn6r9gcpn40",
-                    "created": 1640313923223,
-                    "text": "日志"
+                    "id": "cgrivlwcov40",
+                    "created": 1640754356914,
+                    "text": "基于规则的子查询的优化",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgriw5kd5pk0",
+                    "created": 1640754399725,
+                    "text": "查询优化-Explain",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgriwisnd8g0",
+                    "created": 1640754428524,
+                    "text": "optimizer-trace",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgrix9hl3q00",
+                    "created": 1640754486628,
+                    "text": " BuffPool",
+                    "layout": null
                 },
                 "children": []
             },
@@ -58,7 +221,42 @@
                 "data": {
                     "id": "cgn6rjtexrs0",
                     "created": 1640313945780,
-                    "text": "事务"
+                    "text": "事务",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgn6r9gcpn40",
+                    "created": 1640313923223,
+                    "text": "redo-log",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgrixoajoqo0",
+                    "created": 1640754518854,
+                    "text": "undo-log",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgriyifvdds0",
+                    "created": 1640754584479,
+                    "text": "隔离级别"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgriyrlc61k0",
+                    "created": 1640754604401,
+                    "text": "mvcc"
                 },
                 "children": []
             },
@@ -66,7 +264,8 @@
                 "data": {
                     "id": "cgn6rpb62hs0",
                     "created": 1640313957738,
-                    "text": "lock"
+                    "text": "lock",
+                    "layout": null
                 },
                 "children": []
             }
