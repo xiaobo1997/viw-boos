@@ -5,9 +5,50 @@
             "created": 1640921708394,
             "text": "viw"
         },
-        "children": []
+        "children": [
+            {
+                "data": {
+                    "id": "cgx2h6yykso0",
+                    "created": 1641317449303,
+                    "text": "1.它的通用设计方法是什么?"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgx2hyb6wsw0",
+                    "created": 1641317508816,
+                    "text": "2.为什么一定要架构分层"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgx2icqgsvc0",
+                    "created": 1641317540214,
+                    "text": "3.系统设计目标:如何提升系统性能"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgx2iv5avhk0",
+                    "created": 1641317580293,
+                    "text": "4.系统设计目标:系统如何做到高可用"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgx2j205abc0",
+                    "created": 1641317595219,
+                    "text": "5.系统设计目标:系统如何做到易扩展"
+                },
+                "children": []
+            }
+        ]
     },
-    "template": "default",
-    "theme": "fresh-blue",
+    "template": "right",
+    "theme": "fresh-red-compat",
     "version": "1.4.43"
 }

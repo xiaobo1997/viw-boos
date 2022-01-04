@@ -1,0 +1,46 @@
+{
+    "root": {
+        "data": {
+            "id": "cgx2ks3bxlk0",
+            "created": 1641317730372,
+            "text": "viw"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cgx2kv9bexs0",
+                    "created": 1641317737264,
+                    "text": "数据库"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgx2l191zz40",
+                    "created": 1641317750309,
+                    "text": "缓存"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgx2l35eb740",
+                    "created": 1641317754442,
+                    "text": "消息队列"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgx2la0n8u80",
+                    "created": 1641317769392,
+                    "text": "池化"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-red-compat",
+    "version": "1.4.43"
+}
