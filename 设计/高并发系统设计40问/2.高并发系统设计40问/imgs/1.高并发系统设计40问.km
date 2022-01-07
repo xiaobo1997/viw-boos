@@ -45,10 +45,266 @@
                     "text": "5.系统设计目标:系统如何做到易扩展"
                 },
                 "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzms8rn2aw0",
+                    "created": 1641577857331,
+                    "text": "6.池化思想及其作用"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmu9t02ao0",
+                    "created": 1641578016319,
+                    "text": "7.数据库-如何做主从分离"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmutkvknc0",
+                    "created": 1641578059363,
+                    "text": "8.数据库-如何做分库分表"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmv2mn4mw0",
+                    "created": 1641578079061,
+                    "text": "9.如何保证全局唯一id"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmvd03zr40",
+                    "created": 1641578101643,
+                    "text": "10.高并发情况下的nosql使用"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmvpbyaps0",
+                    "created": 1641578128480,
+                    "text": "11.数据库瓶颈时如何对动态数据使用缓存"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmwdo1dl40",
+                    "created": 1641578181454,
+                    "text": "12.如何选择缓存的读写策略"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmwp30q1c0",
+                    "created": 1641578206304,
+                    "text": "13.缓存如何做高并发"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmwwdpngo0",
+                    "created": 1641578222189,
+                    "text": "14.应对缓存穿透"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmxhjmcpc0",
+                    "created": 1641578268258,
+                    "text": "15.CDN的作用"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmxxorujc0",
+                    "created": 1641578303398,
+                    "text": "16.如何使用MQ解决秒杀下的高并发请求"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmyiq7bh40",
+                    "created": 1641578349197,
+                    "text": "17.如何避免MQ的重复消费"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmzb0drw00",
+                    "created": 1641578410763,
+                    "text": "18.如何提示MQ的性能"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzmzk8uy140",
+                    "created": 1641578430866,
+                    "text": "19.系统:万QPS需要做服务拆分吗"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn041dml40",
+                    "created": 1641578473949,
+                    "text": "20.微服务下如何设计改造系统架构"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn0ilgau80",
+                    "created": 1641578505638,
+                    "text": "21.10万QPS如何实现毫秒级调用"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn111balk0",
+                    "created": 1641578545779,
+                    "text": "22.分布式下如何寻址"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn1d989f40",
+                    "created": 1641578572379,
+                    "text": "23.N个系统如何使用Trace快速排查问题"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn1rv4uiw0",
+                    "created": 1641578604179,
+                    "text": "24.如何提升系统的横向扩展能力"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn43v8a880",
+                    "created": 1641578787034,
+                    "text": "25.系统的入口api网关如何选择"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn4fubs3c0",
+                    "created": 1641578813101,
+                    "text": "26.多机房跨地区的分布式系统如何做"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn527arlk0",
+                    "created": 1641578861775,
+                    "text": "27.如何使用service mesh屏蔽服务治理的细节"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn5makyjc0",
+                    "created": 1641578905509,
+                    "text": "28.如何做服务端的监控"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn5rv823s0",
+                    "created": 1641578917641,
+                    "text": "29.应用的性能监控然后做"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn5ymzphk0",
+                    "created": 1641578932381,
+                    "text": "30.如何设计系统的全链路压测"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn6ayay680",
+                    "created": 1641578959186,
+                    "text": "31.n个 系统的配置如何管理"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn6lcats00",
+                    "created": 1641578981800,
+                    "text": "32.如何屏蔽非核心系统故障的影响"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn6xf818o0",
+                    "created": 1641579008098,
+                    "text": "33.高并发下我们如何操控流量"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn78u5k680",
+                    "created": 1641579032946,
+                    "text": "34.海量数据下的计数器如何做"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn7gzwlc80",
+                    "created": 1641579050708,
+                    "text": "35.50万QPS系统未读数如何设计"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn7u3an400",
+                    "created": 1641579079211,
+                    "text": "36.通用信息系统的push如何做"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgzn83cnmsg0",
+                    "created": 1641579099368,
+                    "text": "37.通用信息系统的pull如何做"
+                },
+                "children": []
             }
         ]
     },
-    "template": "right",
+    "template": "default",
     "theme": "fresh-red-compat",
     "version": "1.4.43"
 }
